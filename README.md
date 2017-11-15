@@ -24,6 +24,9 @@ Kibii has created several repositories to seperate and organize Otako's code. He
 * [otako.js](https://github.com/KibiiTV/otako.js/) - This is the Node/JavaScript wrapper for Otako's API. This allows node.js and web js programmers to communicate with our API, so they can create amazing applications and bots wrapped around Otako.
 * [otakoapp-website](https://github.com/KibiiTV/otakoapp-website/) - This is the landing page for Otako's website (found at http://otakoapp.com) until development has advanced far enough where we can host a basic version of Otako. Until then, this landing page serves Otako and displays basic information.
 
+# Funding
+Otako is funded by Kibii. Most of Kibii's funds are coming from the filebin project (more information is to be released soon) and Otako's servers will run off of support from Kibii.
+
 # Domains
 As of now, Kibii has acquired these domains for Otako:
 
