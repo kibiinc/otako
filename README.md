@@ -26,14 +26,15 @@ Kibii has created several repositories to seperate and organize Otako's code. He
 
 # Domains
 As of now, Kibii has acquired these domains for Otako:
-[//]: # The bottom stars are to bold the whole list. (commented out).
-**
-* otako.moe
+
+
+* **otako.moe
 * otakoapp.com
 * otakoapp.org
 * otakoapp.net
-* otaa.co
-**
+* otaa.co**
+
+
 The domains otakoapp.net and otakoapp.org will redirect to otakoapp.com which will be the core landing page for Otako. 
 We're currently still discussing where to serve our API from, WebSocket, and frontend from.
 
