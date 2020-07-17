@@ -5,12 +5,15 @@ If you'd like to chat with us, we have a Discord server for development purposes
 
 [![dev chat](https://discordapp.com/api/guilds/380173469322575874/widget.png?style=banner2)](https://discord.gg/8g2D7Dv)
  
-# ! Initial Release !
+# Otako
+This project has been archived, as it was never completed, but for memorial purposes we will leave this repository here.
+ 
+~~# ! Initial Release !
 As of 11/14/2017 (MM/DD/YYY) we have gone open source and we're still merging our new changes. All of our repos will be filled with information ASAP and this repo will be updated and documented. For now, just chill in the cool lane. :sunglasses: 
 
-Anyhow, please do note we aren't accepting contributions as most of our code is currently privately hosted, very badly written, undergoing rewrites and major changes, and lastly, is not ready for open source. Before we can go open source, we'll need to finish up some things and merge our new code to here.
+~~Anyhow, please do note we aren't accepting contributions as most of our code is currently privately hosted, very badly written, undergoing rewrites and major changes, and lastly, is not ready for open source. Before we can go open source, we'll need to finish up some things and merge our new code to here.~~
 
-Thanks for being curious about Otako and thanks for helping us build this amazing application!
+~~Thanks for being curious about Otako and thanks for helping us build this amazing application!~~
 
 # Repositories
 Kibii has created several repositories to seperate and organize Otako's code. Here's a list of all the repositories and what's inside them:
